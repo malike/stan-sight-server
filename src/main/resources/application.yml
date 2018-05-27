@@ -1,0 +1,22 @@
+## YAML Template.
+
+server:
+  port: 9393
+
+
+
+spring:
+  application:
+    name: theia-server
+  cloud:
+    profiles:
+      active: default     
+    dataflow.features:
+        streams-enabled: true
+        tasks-enabled: true
+        analytics-enabled: true    
+  datasource:
+    url: jdbc:mysql://localhost:3306/theia
+    username: root
+    password: 
+    driver-class-name: com.mysql.jdbc.Driver
