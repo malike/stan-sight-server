@@ -1,7 +1,7 @@
 # Theia Server
 
 
-![theia.png](www.zeldacw.com)
+[<img src="https://raw.githubusercontent.com/malike/theia-server/master/theia.png" alt="www.zeldacw.com">](www.zeldacw.com)
 
 Theia Server is 
 
